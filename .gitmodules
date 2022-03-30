@@ -1,0 +1,3 @@
+[submodule "Gmsh.Net"]
+	path = Gmsh.Net
+	url = git@github.com:keppz/Gmsh.Net.git
