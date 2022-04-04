@@ -90,3 +90,6 @@ dotnet_diagnostic.SA1111.severity = None
 
 # Braces should not be ommitted
 dotnet_diagnostic.SA1503.severity = None
+
+# Line break in argument list
+dotnet_diagnostic.SA1117.severity = None
