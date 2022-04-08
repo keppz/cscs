@@ -12,9 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using GmshNet;
-using geo = GmshNet.Gmsh.Model.Geo;
 using CustomExtensions;
+using GmshNet;
 
 namespace Cs
 {
@@ -312,6 +311,6 @@ namespace Cs
             {
                 Status.Text = $"Error: {ex.Message}";
             }
-}
+        }
     }
 }
